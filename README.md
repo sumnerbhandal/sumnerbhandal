@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/sumnerbhandal/sumnerbhandal/main/Tech%20Life%20-%20Life%20Management.png" alt="Illustration of man interacting with tech symbols" width=400px height=367px/>
+<img align="right" src="https://github.com/sumnerbhandal/sumnerbhandal/blob/main/Tech%20Life%20-%20Dark%20Mode.png?raw=true" alt="Illustration of man interacting with tech symbols" width=400px height=367px/>
 
 ### Hi, my name's Sumner 👋🏽
 
